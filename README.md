@@ -10,6 +10,7 @@ This directory contains files to perform:
 - The training of the machine learning model.
 - The testing of the model on unknown data (test-set).
 - The visualization of the results (bond length, bond angle, and dihedral angle distributions).
-
+## Generate samples
+This directory contains a notebook, where we present the implementation of each part of the backmapping procedure.
  
 
