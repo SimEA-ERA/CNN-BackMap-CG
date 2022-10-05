@@ -9,7 +9,7 @@ The method consists of three parts:
 This directory contains files to perform:
 - The training of the machine learning model.
 - The testing of the model on unknown data (test-set).
-- The visualization of the results (bond lenght, bond angle, and dihedral angle distributions).
+- The visualization of the results (bond length, bond angle, and dihedral angle distributions).
 
  
 
